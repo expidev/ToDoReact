@@ -8,4 +8,4 @@ Then start it.
 
 ```bash
 npm start
-~~~
+```
